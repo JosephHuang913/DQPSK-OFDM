@@ -1,0 +1,113 @@
+DQPSK under AWGN channel
+Eb/N0 = 0.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.498653
+Average bit error rate = 1.640640e-01
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 1.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.396996
+Average bit error rate = 1.301315e-01
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 2.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.315112
+Average bit error rate = 9.918700e-02
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 3.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.250294
+Average bit error rate = 7.166200e-02
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 4.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.198843
+Average bit error rate = 4.834350e-02
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 5.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.157913
+Average bit error rate = 3.023750e-02
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 6.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.125459
+Average bit error rate = 1.720700e-02
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 7.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.099642
+Average bit error rate = 8.539000e-03
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 8.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.079149
+Average bit error rate = 3.614500e-03
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 9.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.062863
+Average bit error rate = 1.244000e-03
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 10.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.049941
+Average bit error rate = 3.355000e-04
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 11.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.039683
+Average bit error rate = 6.450000e-05
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 12.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.031507
+Average bit error rate = 7.500000e-06
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 13.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.025032
+Average bit error rate = 5.000000e-07
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 14.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.019884
+Average bit error rate = 0.000000e+00
+Symbol numbers of simulation = 1000000
+
+DQPSK under AWGN channel
+Eb/N0 = 15.000000 dB
+Average signal power = 1.000000
+Average noise power = 0.015790
+Average bit error rate = 0.000000e+00
+Symbol numbers of simulation = 1000000
+
+Totle elapsed time: 157(sec)

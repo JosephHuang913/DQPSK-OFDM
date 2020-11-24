@@ -1,0 +1,97 @@
+DQPSK + OFDM under AWGN channel with Eb/N0 = 0.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.003901
+Average bit error rate = 1.635830e-01
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 1.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.003100
+Average bit error rate = 1.299468e-01
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 2.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.002459
+Average bit error rate = 9.920166e-02
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 3.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.001958
+Average bit error rate = 7.178320e-02
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 4.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.001555
+Average bit error rate = 4.869287e-02
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 5.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.001236
+Average bit error rate = 3.023291e-02
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 6.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000982
+Average bit error rate = 1.720459e-02
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 7.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000778
+Average bit error rate = 8.494141e-03
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 8.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000619
+Average bit error rate = 3.713379e-03
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 9.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000492
+Average bit error rate = 1.282227e-03
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 10.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000390
+Average bit error rate = 3.476563e-04
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 11.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000310
+Average bit error rate = 5.810547e-05
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 12.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000246
+Average bit error rate = 6.347656e-06
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 13.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000196
+Average bit error rate = 0.000000e+00
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 14.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000155
+Average bit error rate = 0.000000e+00
+Sample numbers of simulation = 2048000
+
+DQPSK + OFDM under AWGN channel with Eb/N0 = 15.000000 dB
+Average signal power = 0.007811
+Average noise power = 0.000124
+Average bit error rate = 0.000000e+00
+Sample numbers of simulation = 2048000
+
+Totle elapsed time: 251(sec)

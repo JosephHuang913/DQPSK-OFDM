@@ -1,0 +1,81 @@
+DQPSK under flat fading channel with average Eb/N0 = 0.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.499979
+Average bit error rate = 1.941841e-01
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 5.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.158081
+Average bit error rate = 8.561305e-02
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 10.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.049990
+Average bit error rate = 3.005155e-02
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 15.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.015809
+Average bit error rate = 9.029350e-03
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 20.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.004999
+Average bit error rate = 2.457850e-03
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 25.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.001581
+Average bit error rate = 6.824500e-04
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 30.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.000500
+Average bit error rate = 2.301500e-04
+Symbol numbers of simulation = 10000000
+
+DQPSK under flat fading channel with average Eb/N0 = 35.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 1.000000
+Average noise power = 0.000158
+Average bit error rate = 1.031500e-04
+Symbol numbers of simulation = 10000000
+
+Total elapsed time: 11419(sec)

@@ -1,0 +1,96 @@
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 0.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007727
+Average noise power = 0.003905
+Average bit error rate = 1.940926e-01
+Sample numbers of simulation = 20000000
+Total time elapsed: 1029(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 5.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.001235
+Average bit error rate = 8.549575e-02
+Sample numbers of simulation = 20000000
+Total time elapsed: 1918(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 10.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.000390
+Average bit error rate = 2.996960e-02
+Sample numbers of simulation = 20000000
+Total time elapsed: 2808(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 15.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007727
+Average noise power = 0.000124
+Average bit error rate = 9.036650e-03
+Sample numbers of simulation = 20000000
+Total time elapsed: 3697(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 20.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.000039
+Average bit error rate = 2.469450e-03
+Sample numbers of simulation = 20000000
+Total time elapsed: 4587(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 25.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.000012
+Average bit error rate = 7.075500e-04
+Sample numbers of simulation = 20000000
+Total time elapsed: 5476(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 30.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.000004
+Average bit error rate = 2.451000e-04
+Sample numbers of simulation = 20000000
+Total time elapsed: 6365(sec)
+
+DQPSK + OFDM under flat fading channel
+Average Eb/N0 = 35.000000 dB
+Speed of the vehicle = 30.000000
+Carrier Frequency = 2.000000e+09
+Maximum Doppler Frequency = 5.555556e+01
+Transmission Symbol Rate = 1.000000e+07
+Average signal power = 0.007728
+Average noise power = 0.000001
+Average bit error rate = 1.144000e-04
+Sample numbers of simulation = 20000000
+Total time elapsed: 7255(sec)
+
