@@ -1,4 +1,4 @@
-### OFDM (Orthogonal Frequency Division Multiplexing) with DQPSK (Differential Quadrqture Phase Shift Keying) 
+### OFDM (Orthogonal Frequency Division Multiplexing) with DQPSK (Differential Quadraqture Phase Shift Keying) 
 
 * AWGN channel: DQPSK + OFDM with FFT size = 128
 * Fading channel: DQPSK + OFDM with FFT size = 128 and 256
